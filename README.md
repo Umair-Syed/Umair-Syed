@@ -8,6 +8,7 @@
   - [Libo - Learn and Share Web App](https://libo-web.vercel.app/)
   - [Libo - Learn and Share Mobile App](https://play.google.com/store/apps/details?id=com.skapps.android.liboapp)
   - [Spam detection Mobile App with ML](https://github.com/Umair-Syed/TheSystem_SpamDetection)
+  - [Algorithms Visualization](https://github.com/Umair-Syed/Algorithms-Visualization)
   
 
 <!---
