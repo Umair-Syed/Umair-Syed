@@ -10,6 +10,7 @@
   - [Spam detection Mobile App with ML](https://github.com/Umair-Syed/TheSystem_SpamDetection)
   - [Algorithms Visualization](https://github.com/Umair-Syed/Algorithms-Visualization)
   - [Sarcastic Message reply bot](https://nextjs-gpt3-hazel.vercel.app/)
+  - [Content clustering using Kmeans optimized by Genetic Algorithm](https://github.com/Umair-Syed/Genetic_algorithm_KMeans_content_clustering)
   
 
 <!---
