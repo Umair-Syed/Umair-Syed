@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Umair-Syed
-- 👀 I’m interested in software development.
-- 🌱 I’m currently learning flutter.
+- 👀 I’m interested in Software Sevelopment.
+- 🌱 I’m currently learning Flutter.
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me: syedumairandrabi66@gmail.com
 - Few of my top projects:
