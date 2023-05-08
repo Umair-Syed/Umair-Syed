@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Umair-Syed
 - 👀 I’m interested in Software Development.
 - 🌱 I’m currently learning Flutter.
-- 💞️ I’m looking to collaborate on projects.
+- 💞️ I’m looking to collaborate in projects.
 - 📫 How to reach me: syedumairandrabi66@gmail.com
 - Few of my top projects:
   - [Pomoroom - Pomodoro with friends](https://play.google.com/store/apps/details?id=com.pomoroom.pomoroom)
