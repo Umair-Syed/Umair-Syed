@@ -4,9 +4,9 @@
 - 💞️ I’m looking to collaborate in projects.
 - 📫 How to reach me: syedumairandrabi66@gmail.com
 - Few of my top projects:
-  - [Pomoroom - Pomodoro with friends](https://play.google.com/store/apps/details?id=com.pomoroom.pomoroom)
-  - [Libo - Learn and Share Web App](https://libo-web.vercel.app/)
-  - [Libo - Learn and Share Mobile App](https://play.google.com/store/apps/details?id=com.skapps.android.liboapp)
+  - [Pomoroom - Pomodoro with friends](https://play.google.com/store/apps/details?id=com.pomoroom.pomoroom) (Private Repo)
+  - [Libo - Learn and Share Web App](https://libo-web.vercel.app/) (Private Repo)
+  - [Libo - Learn and Share Mobile App](https://play.google.com/store/apps/details?id=com.skapps.android.liboapp) (Private Repo)
   - [Spam detection Mobile App with ML](https://github.com/Umair-Syed/TheSystem_SpamDetection)
   - [Algorithms Visualization](https://github.com/Umair-Syed/Algorithms-Visualization)
   - [Content clustering using Kmeans optimized by Genetic Algorithm](https://github.com/Umair-Syed/Genetic_algorithm_KMeans_content_clustering)
