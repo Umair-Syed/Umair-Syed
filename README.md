@@ -3,6 +3,7 @@
 - 💞️ I’m looking to collaborate in projects.
 - 📫 How to reach me: syedumairandrabi66@gmail.com
 - Few of my top projects:
+  - [Intelli - Chat AI](https://www.intelligentai.app/) (Private Repo)
   - [Pomoroom - Pomodoro with friends](https://play.google.com/store/apps/details?id=com.pomoroom.pomoroom) (Private Repo)
   - [Libo - Learn and Share Web App](https://libo-web.vercel.app/) (Private Repo)
   - [Libo - Learn and Share Mobile App](https://play.google.com/store/apps/details?id=com.skapps.android.liboapp) (Private Repo)
